@@ -1,0 +1,12 @@
+{
+  "name": "networks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maykongsn/networks.git"
+  },
+  "author": "Maykon",
+  "license": "ISC"
+}
